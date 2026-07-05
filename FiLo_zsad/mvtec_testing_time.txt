@@ -1,0 +1,2 @@
+mvtec Time for test: 713.4147610469954 
+mvtec Time for test: 674.4044778759126 

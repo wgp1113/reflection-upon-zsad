@@ -1,0 +1,37 @@
+python test.py --dataset visa \
+--data_path /home/dell/wgp/datasets/zsad_datasets/VisA_zsad_common_sense \
+--ckpt_path ./checkpoints/mvtec_zsad_common_sense_seed_0/filo_train_on_mvtec.pth \
+--grounded_checkpoint ./grounding_dino/grounding_train_on_mvtec.pth \
+--save_path ./results/visa_zsad_common_sense_seed_0
+
+python test.py --dataset visa \
+--data_path /home/dell/wgp/datasets/zsad_datasets/VisA_zsad_common_sense \
+--ckpt_path ./checkpoints/mvtec_zsad_common_sense_seed_42/filo_train_on_mvtec.pth \
+--grounded_checkpoint ./grounding_dino/grounding_train_on_mvtec.pth \
+--save_path ./results/visa_zsad_common_sense_seed_42
+
+python test.py --dataset visa \
+--data_path /home/dell/wgp/datasets/zsad_datasets/VisA_zsad_common_sense \
+--ckpt_path ./checkpoints/mvtec_zsad_common_sense_seed_111/filo_train_on_mvtec.pth \
+--grounded_checkpoint ./grounding_dino/grounding_train_on_mvtec.pth \
+--save_path ./results/visa_zsad_common_sense_seed_111
+
+
+python test.py --dataset visa \
+--data_path /home/dell/wgp/datasets/zsad_datasets/VisA_zsad_extended \
+--ckpt_path ./checkpoints/mvtec_zsad_extended_seed_0/filo_train_on_mvtec.pth \
+--grounded_checkpoint ./grounding_dino/grounding_train_on_mvtec.pth \
+--save_path ./results/visa_zsad_extended_seed_0
+
+python test.py --dataset visa \
+--data_path /home/dell/wgp/datasets/zsad_datasets/VisA_zsad_extended \
+--ckpt_path ./checkpoints/mvtec_zsad_extended_seed_42/filo_train_on_mvtec.pth \
+--grounded_checkpoint ./grounding_dino/grounding_train_on_mvtec.pth \
+--save_path ./results/visa_zsad_extended_seed_42
+
+python test.py --dataset visa \
+--data_path /home/dell/wgp/datasets/zsad_datasets/VisA_zsad_extended \
+--ckpt_path ./checkpoints/mvtec_zsad_extended_seed_111/filo_train_on_mvtec.pth \
+--grounded_checkpoint ./grounding_dino/grounding_train_on_mvtec.pth \
+--save_path ./results/visa_zsad_extended_seed_111
+

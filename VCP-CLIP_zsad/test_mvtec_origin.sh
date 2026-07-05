@@ -1,0 +1,8 @@
+for i in {1..15};do
+python -u test.py --dataset mvtec --data_path /mnt/data1/wgp/VCP-CLIP/dataset/dataset/mvisa/data \
+--checkpoint_path ./my_exps/train_visa_origin/epoch_${i}_group_id_2.pth \
+--save_path ./results/mvtec_origin_${i} --pretrained_path ./pretrained_weight/ViT-L-14-336px.pt \
+--prompt_len 2 --deep_prompt_len 1 --device_id 0 --features_list 6 12 18 24 --pretrained openai --image_size 518 \
+--seed 111 --config_path ./models/model_configs/ViT-L-14-336.json --model ViT-L-14-336
+done
+

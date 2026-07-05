@@ -1,0 +1,2 @@
+Time for testing: 519.243648593023s 
+Time for testing visa: 396.1472328180098s 

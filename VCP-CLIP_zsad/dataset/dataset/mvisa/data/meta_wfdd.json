@@ -1,0 +1,3606 @@
+{
+    "train": {
+        "grey_cloth": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ],
+        "grid_cloth": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ],
+        "pink_flower": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ],
+        "yellow_cloth": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "grey_cloth": [
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000000.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000000.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000001.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000001.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000002.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000002.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000003.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000003.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000004.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000004.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000005.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000005.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000006.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000006.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000007.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000007.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000008.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000008.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000009.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000009.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000010.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000010.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000011.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000011.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000012.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000012.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000013.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000013.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000014.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000014.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000015.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000015.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000016.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000016.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000017.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000017.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000018.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000018.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_contaminated_000019.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_contaminated_000019.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000020.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000020.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000021.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000021.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000022.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000022.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000023.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000023.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000024.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000024.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000025.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000025.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000026.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000026.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000027.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000027.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000028.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000028.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000029.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000029.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000030.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000030.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000031.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000031.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000032.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000032.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_flecked_000033.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_flecked_000033.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000055.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000055.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000056.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000056.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000057.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000057.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000058.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000058.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000059.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000059.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000060.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000060.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000061.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000061.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000062.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000062.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_line_000063.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_line_000063.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000064.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000064.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000065.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000065.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000066.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000066.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000067.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000067.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000068.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000068.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000069.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000069.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000070.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000070.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000071.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000071.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000072.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000072.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000073.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000073.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000074.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000074.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000075.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000075.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000076.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000076.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000077.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000077.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000078.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000078.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/anomaly/wfdd_string_000079.bmp",
+                "mask_path": "wfdd/grey_cloth/ground_truth/anomaly/wfdd_string_000079.png",
+                "cls_name": "grey_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000034.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000035.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000036.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000037.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000038.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000039.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000040.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000041.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000042.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000043.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000044.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000045.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000046.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000047.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000048.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000049.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000050.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000051.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000052.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000053.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grey_cloth/test/good/wfdd_good_000054.bmp",
+                "mask_path": "",
+                "cls_name": "grey_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            }
+        ],
+        "grid_cloth": [
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000080.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000080.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000081.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000081.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000082.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000082.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000083.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000083.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000084.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000084.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000085.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000085.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000086.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000086.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000087.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000087.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000088.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000088.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000089.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000089.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000090.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000090.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000091.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000091.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000092.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000092.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000093.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000093.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000094.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000094.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000095.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000095.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000096.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000096.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000097.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000097.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000098.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000098.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000099.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000099.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000100.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000100.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000101.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000101.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000102.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000102.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000103.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000103.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000104.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000104.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000105.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000105.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000106.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000106.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000107.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000107.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000108.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000108.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000109.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000109.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000110.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000110.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000111.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000111.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000112.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000112.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000113.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000113.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000114.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000114.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000115.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000115.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000116.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000116.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000117.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000117.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000118.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000118.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000119.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000119.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000120.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000120.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000121.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000121.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000122.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000122.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000123.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000123.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000124.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000124.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000125.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000125.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000126.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000126.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000127.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000127.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000128.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000128.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000129.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000129.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000130.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000130.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000131.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000131.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000132.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000132.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000133.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000133.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/anomaly/wfdd_defect_000134.bmp",
+                "mask_path": "wfdd/grid_cloth/ground_truth/anomaly/wfdd_defect_000134.png",
+                "cls_name": "grid_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000135.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000136.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000137.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000138.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000139.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000140.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000141.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000142.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000143.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000144.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000145.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000146.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000147.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000148.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000149.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000150.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000151.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000152.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000153.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000154.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000155.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000156.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000157.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000158.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000159.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000160.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000161.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000162.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000163.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000164.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000165.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000166.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000167.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000168.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000169.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000170.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000171.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000172.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000173.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000174.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000175.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000176.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000177.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000178.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000179.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000180.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000181.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000182.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000183.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000184.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000185.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000186.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000187.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000188.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/grid_cloth/test/good/wfdd_good_000189.bmp",
+                "mask_path": "",
+                "cls_name": "grid_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            }
+        ],
+        "pink_flower": [
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000190.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000190.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000191.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000191.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000192.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000192.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000193.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000193.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000194.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000194.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000195.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000195.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000196.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000196.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000197.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000197.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000198.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000198.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000199.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000199.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000200.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000200.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000201.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000201.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000202.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000202.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000203.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000203.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000204.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000204.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000205.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000205.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000206.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000206.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000207.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000207.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000208.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000208.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000209.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000209.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000210.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000210.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000211.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000211.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000212.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000212.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000213.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000213.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000214.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000214.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000215.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000215.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000216.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000216.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000217.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000217.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000218.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000218.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000219.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000219.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000220.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000220.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/anomaly/wfdd_defect_000221.bmp",
+                "mask_path": "wfdd/pink_flower/ground_truth/anomaly/wfdd_defect_000221.png",
+                "cls_name": "pink_flower",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000222.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000223.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000224.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000225.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000226.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000227.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000228.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000229.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000230.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000231.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000232.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000233.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000234.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000235.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000236.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000237.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000238.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000239.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000240.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000241.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000242.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000243.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000244.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000245.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000246.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000247.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000248.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000249.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000250.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000251.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000252.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/pink_flower/test/good/wfdd_good_000253.bmp",
+                "mask_path": "",
+                "cls_name": "pink_flower",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            }
+        ],
+        "yellow_cloth": [
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000254.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000254.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000255.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000255.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000256.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000256.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000257.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000257.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000258.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000258.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000259.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000259.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000260.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000260.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000261.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000261.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000262.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000262.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000263.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000263.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000264.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000264.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000265.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000265.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000266.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000266.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000267.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000267.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000268.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000268.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000269.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000269.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000270.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000270.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000271.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000271.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000272.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000272.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000273.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000273.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000274.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000274.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000275.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000275.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000276.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000276.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000277.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000277.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000278.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000278.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000279.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000279.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000280.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000280.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000281.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000281.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000282.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000282.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000283.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000283.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000284.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000284.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000285.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000285.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000286.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000286.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000287.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000287.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000288.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000288.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000289.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000289.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000290.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000290.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000291.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000291.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000292.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000292.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000293.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000293.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000294.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000294.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000295.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000295.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000296.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000296.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000297.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000297.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000298.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000298.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000299.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000299.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000300.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000300.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000301.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000301.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000302.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000302.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000303.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000303.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000304.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000304.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000305.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000305.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000306.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000306.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000307.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000307.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000308.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000308.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000309.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000309.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000310.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000310.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000311.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000311.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000312.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000312.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000313.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000313.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000314.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000314.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000315.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000315.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000316.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000316.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000317.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000317.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000318.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000318.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000319.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000319.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000320.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000320.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000321.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000321.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000322.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000322.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000323.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000323.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000324.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000324.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000325.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000325.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000326.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000326.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000327.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000327.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000328.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000328.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000329.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000329.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000330.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000330.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000331.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000331.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000332.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000332.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000333.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000333.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000334.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000334.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000335.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000335.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000336.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000336.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000337.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000337.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000338.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000338.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000339.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000339.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000340.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000340.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000341.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000341.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000342.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000342.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000343.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000343.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000344.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000344.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000345.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000345.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000346.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000346.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000347.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000347.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/anomaly/wfdd_defect_000348.bmp",
+                "mask_path": "wfdd/yellow_cloth/ground_truth/anomaly/wfdd_defect_000348.png",
+                "cls_name": "yellow_cloth",
+                "specie_name": "anomaly",
+                "dataset_name": "wfdd",
+                "anomaly": 1
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000349.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000350.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000351.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000352.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000353.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000354.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000355.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000356.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000357.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000358.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000359.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000360.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000361.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000362.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000363.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000364.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000365.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000366.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000367.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000368.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000369.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000370.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000371.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000372.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000373.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000374.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000375.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000376.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000377.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000378.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000379.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000380.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000381.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000382.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000383.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000384.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000385.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000386.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000387.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000388.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000389.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000390.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000391.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000392.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000393.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000394.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000395.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000396.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000397.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000398.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000399.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000400.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000401.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000402.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000403.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000404.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000405.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000406.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000407.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000408.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000409.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000410.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000411.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000412.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000413.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000414.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000415.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000416.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000417.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000418.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000419.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000420.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000421.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000422.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000423.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000424.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000425.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000426.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000427.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000428.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000429.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000430.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000431.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000432.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000433.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000434.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000435.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000436.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000437.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000438.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000439.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000440.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000441.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000442.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            },
+            {
+                "img_path": "wfdd/yellow_cloth/test/good/wfdd_good_000443.bmp",
+                "mask_path": "",
+                "cls_name": "yellow_cloth",
+                "specie_name": "good",
+                "dataset_name": "wfdd",
+                "anomaly": 0
+            }
+        ]
+    }
+}

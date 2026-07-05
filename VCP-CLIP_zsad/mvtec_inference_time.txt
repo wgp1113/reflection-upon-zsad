@@ -1,0 +1,1 @@
+Time for testing mvtec: 147.0810419950285s 

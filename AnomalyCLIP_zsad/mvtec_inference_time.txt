@@ -1,0 +1,2 @@
+Time for testing mvtec: 250.71264651499223s ,total image num:1288
+Time for testing mvtec: 250.76712396700168s ,total image num:1288

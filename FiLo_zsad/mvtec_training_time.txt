@@ -1,0 +1,1 @@
+mvtec Time for training: 14456.721096388006 
