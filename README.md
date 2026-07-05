@@ -50,7 +50,8 @@ In our implementation, ICAP uses 3 first-stage annotators and 2 additional annot
 
 See Figure 3 for the annotation protocol.
 
-<img width="1574" height="886" alt="image" src="https://github.com/user-attachments/assets/196e046a-aa60-4758-a426-7f46f03c6bca" />
+<img width="1660" height="794" alt="image" src="https://github.com/user-attachments/assets/c30104ec-0578-4503-b06b-a3b9e490611c" />
+
 
 
 
@@ -65,7 +66,8 @@ Guided by ZEP and ICAP, we construct new reference-independent benchmarks on the
 
 As the zero-shot setup of ZSAD involves no normal reference from the training set, the new ZSAD benchmarks only have test sets. During annotation, 29.1% of MVTec-AD test images and 20.5% of VisA test images are reprocessed.
 
-<img width="858" height="1068" alt="image" src="https://github.com/user-attachments/assets/cd986156-2413-4620-9d6b-6ab9148900a5" />
+<img width="900" height="1076" alt="image" src="https://github.com/user-attachments/assets/ecf93412-35ae-4d15-833d-8e2d386e84bb" />
+
 
 
 
