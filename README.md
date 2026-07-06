@@ -8,7 +8,9 @@ In this paper, we move beyond one-class IAD benchmarks, reform the current evalu
 
 See Figure 1 for an illustration of the evaluation flaw.
 
+<div align="center">
 <img width="2084" height="658" alt="image" src="https://github.com/user-attachments/assets/e1085d2f-59aa-4e41-8e47-a52b1787c949" />
+</div>
 
 ## Highlights
 
@@ -50,8 +52,9 @@ In our implementation, ICAP uses 3 first-stage annotators and 2 additional annot
 
 See Figure 3 for the annotation protocol.
 
+<div align="center">
 <img width="1660" height="794" alt="image" src="https://github.com/user-attachments/assets/c30104ec-0578-4503-b06b-a3b9e490611c" />
-
+</div>
 
 
 
@@ -66,8 +69,9 @@ Guided by ZEP and ICAP, we construct new reference-independent benchmarks on the
 
 As the zero-shot setup of ZSAD involves no normal reference from the training set, the new ZSAD benchmarks only have test sets. During annotation, 29.1% of MVTec-AD test images and 20.5% of VisA test images are reprocessed.
 
+<div align="center">
 <img width="900" height="1076" alt="image" src="https://github.com/user-attachments/assets/ecf93412-35ae-4d15-833d-8e2d386e84bb" />
-
+</div>
 
 
 
@@ -88,6 +92,29 @@ Under the new evaluation framework for ZSAD, we extensively re-evaluate ten repr
 - MRAD
 
 The evaluation uses seven widely-used metrics. Image-level AUROC, F1, and AP evaluate anomaly classification, while pixel-level AUROC, F1, AP, and AUPRO evaluate anomaly localization.
+
+## Experimental Results
+
+<div align="center">
+<img width="1000" height="514" alt="image" src="https://github.com/user-attachments/assets/863b732e-ccba-41e7-9ee6-48819ae1bcf9" />
+</div>
+  
+<div align="center">
+<img width="1000" height="514" alt="image" src="https://github.com/user-attachments/assets/1858e600-6805-430d-b581-8689087d7fef" />
+</div>
+
+<div align="center">
+<img width="1000" height="470" alt="image" src="https://github.com/user-attachments/assets/b0cb8b49-f4d1-4ba5-935f-90204695375e" />
+</div>
+
+<div align="center">
+<img width="500" height="267" alt="image" src="https://github.com/user-attachments/assets/3f23f37b-135c-4368-af9b-fd3614089833" />
+</div>
+  
+<div align="center">
+<img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/ca794d0a-f776-4158-bcc6-ff155ccbe944" />
+</div>
+
 
 ## Main Findings
 
