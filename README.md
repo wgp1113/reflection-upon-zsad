@@ -1,4 +1,4 @@
-# Move Beyond One-class: Reflection upon Zero-shot Anomaly Detection and A New Evaluation Principle
+# Move Beyond One-class Benchmarks: Reflection upon Zero-shot Image Anomaly Detection and A New Evaluation Principle
 
 With emerging foundational vision-language models (VLMs) like CLIP, zero-shot anomaly detection (ZSAD) has become a heating realm in recent research on industrial anomaly detection (IAD). Existing works typically evaluate ZSAD methods on classic **one-class** IAD benchmarks, which define anomalies as deviations from normal reference images in a pure one-class normal training set.
 
