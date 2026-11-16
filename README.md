@@ -127,7 +127,9 @@ The evaluation uses seven widely-used metrics. Image-level AUROC, F1, and AP eva
 
 
 ### Dataset download
-Due to copyright restrictions, the raw data is not publicly available at this time. If you wish to request access to the dataset, please contact us via email at wangguangpu@nudt.edu.cn. We will provide download instructions within 24 hours of receiving your request. If you do not hear back from us within this timeframe, please feel free to open an issue on our GitHub repository, and we will respond to you as soon as possible.
+
+Download link: https://pan.baidu.com/s/15aehI2SsdrnCloXTyVl-eg   
+Extraction code: j4rd
 
 ## Results
 
