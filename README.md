@@ -71,7 +71,10 @@ As the zero-shot setup of ZSAD involves no normal reference from the training se
 <img width="900" height="1076" alt="image" src="https://github.com/user-attachments/assets/ecf93412-35ae-4d15-833d-8e2d386e84bb" />
 </div>
 
+### Dataset download
 
+Download link: https://pan.baidu.com/s/15aehI2SsdrnCloXTyVl-eg   
+Extraction code: j4rd
 
 
 ## Re-evaluated Methods
@@ -124,12 +127,6 @@ The evaluation uses seven widely-used metrics. Image-level AUROC, F1, and AP eva
 - For computational cost, CLIP-AD is the most efficient method, while MRAD and AA-CLIP strike a better balance on MVTec-AD-ZS.
 
 
-### Dataset download
-
-Download link: https://pan.baidu.com/s/15aehI2SsdrnCloXTyVl-eg   
-Extraction code: j4rd
-
-## Results
 
 
 ## Acknowledgement
