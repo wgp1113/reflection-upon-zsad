@@ -53,10 +53,8 @@ In our implementation, ICAP uses 3 first-stage annotators and 2 additional annot
 See Figure 3 for the annotation protocol.
 
 <div align="center">
-<img width="1660" height="794" alt="image" src="https://github.com/user-attachments/assets/c30104ec-0578-4503-b06b-a3b9e490611c" />
+<img width="2148" height="1412" alt="image" src="https://github.com/user-attachments/assets/80b01a54-a565-42b7-8d36-8d05cdd2495e" />
 </div>
-
-
 
 ## New Benchmarks
 
